@@ -1,6 +1,6 @@
 SIMPLE-TERRAFORM-AWS-PROJECT
 
-This is me trying to master how to  Provisioning a three-tier cloud architecture with Terraform on AWS in the following steps.
+This is me trying to master how to  Provision a three-tier cloud architecture with Terraform on AWS in the following steps.
 
 Step 1: Set up an AWS account If you haven't already, create an AWS account and configure your access keys. These keys will allow Terraform to communicate with your AWS account.
 
@@ -24,4 +24,4 @@ Once you confirm, Terraform will create the resources and configure them accordi
 It is a good practice to regularly backup your infrastructure code and keep it in version control so that you can easily roll back or make changes to your infrastructure in the future.
 
 
-í¾€í¾€ï¿½ï¿½í¾€í¾€í¾€
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
